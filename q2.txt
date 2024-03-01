@@ -1,0 +1,4 @@
+temp -> float;
+dist -> float;
+date -> double;
+miles -> double;

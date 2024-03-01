@@ -1,0 +1,1 @@
+Sendo uma variavel declarada como um ponteiro ela deve receber um endereço de memória ou o endereço de outra variável.

@@ -1,0 +1,1 @@
+Sendo "soma" uma variável o termo "&soma" designa o endereço na memória ocupado por "soma" .

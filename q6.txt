@@ -1,0 +1,1 @@
+Sendo v[0] = 55000, a expressao v + 3 tem valor 55024
