@@ -1,0 +1,5 @@
+a) message[6]
+b) yrs[10]
+c) stocks[12]
+d) rates[15]
+e) codes[19]

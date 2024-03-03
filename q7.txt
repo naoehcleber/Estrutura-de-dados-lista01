@@ -1,0 +1,8 @@
+a) prices[5] => *(prices + 5);
+b) grades[2] => *(grades + 2);
+c) yield[10] => *(yield + 10);
+d) dist[9] => *(dist + 9);
+e) mile[0] => *(mile + 0);
+f) temp[20] => *(temp + 20);
+g) celsius[16] = *(celsius + 16);
+h) num[50] => *(num + 50);
